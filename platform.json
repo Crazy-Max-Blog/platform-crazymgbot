@@ -72,7 +72,7 @@
     "framework-CrazyMgBot": {
       "type": "framework",
       "optional": false,
-      "version": "https://github.com/Crazy-Max-Blog/CrazyMgBot.git"
+      "version": "https://github.com/Crazy-Max-Blog/CrazyMgBot.git#main"
     },
     "tool-esptoolpy": {
       "type": "uploader",
